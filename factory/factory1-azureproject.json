@@ -1,0 +1,15 @@
+{
+	"name": "factory1-azureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "50532e94-95f4-49a0-8971-38e0f0790ac5",
+		"tenantId": "795ddf39-ba07-4e7d-972c-527e62569e66"
+	}
+}
